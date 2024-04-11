@@ -12,6 +12,9 @@ I've not tested on other environment.
 
     by install ```luci-proto-l2tpv3```, you can add your L2TPv3 interface on ```Network -> Interface```
 
+    ![image](https://github.com/haru3me/OpenWrt-L2TPv3/assets/121174745/23f3d269-fca6-4877-a0eb-9185734e03a6)
+
+
 * ```/etc/config/network```
 
     you can configure L2TPv3 interface like below
